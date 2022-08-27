@@ -1,2 +1,9 @@
+
+/////before branch creating
 Hi 
 This project will help understand the meaning of branching and merging 
+
+////after branch creating
+Hi There 
+
+I am back and I am going to explain here branching 
