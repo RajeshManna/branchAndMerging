@@ -1,0 +1,2 @@
+Hi 
+This project will help understand the meaning of branching and merging 
